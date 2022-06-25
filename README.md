@@ -12,7 +12,7 @@
 <a href="https://twitter.com/Beshay10George" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Beshay10George" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/georgebeshay101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="georgebeshay101" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/George_Beshay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="George_Beshay" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/GeorgeBeshay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="GeorgeBeshay" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/George_Beshay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="George_Beshay" height="30" width="40" /></a>
 <a href="https://discord.gg/#5999" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="#5999" height="30" width="30" /></a>
 </p>
 
