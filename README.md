@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm George Samy</h1>
-<h3 align="center">A Passionate Computer Engineer Student From Egypt</h3>
+<h3 align="center">A Passionate Computer Engineering Student From Egypt</h3>
 
 ![Learning](https://readme-typing-svg.herokuapp.com?lines=I%E2%80%99m+currently+learning+HTML)
 
