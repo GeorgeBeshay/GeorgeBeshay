@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm George Samy</h1>
 <h3 align="center">A Passionate Computer Engineering Student From Egypt</h3>
 
-![Learning](https://readme-typing-svg.herokuapp.com?lines=I%E2%80%99m+currently+learning+HTML)
+![Learning](https://readme-typing-svg.herokuapp.com?lines=I%E2%80%99m+currently+learning+CSS)
 
-![Skills](https://readme-typing-svg.herokuapp.com?width=850&lines=My+Skills+are%3A+C%2C+Java%2C+R%2C+Python)
+![Skills](https://readme-typing-svg.herokuapp.com?width=850&lines=My+Skills+are%3A+C%2C+Java%2C+R%2C+Python+HTML)
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=georgebeshay&theme=radical" alt="George Beshay" /></p>
 
