@@ -31,6 +31,7 @@
 <a href="https://www.cprogramming.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
 <a href="https://www.r-project.org" target="_blank"><img src="https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png" alt="R" width="40" height="40" /></a>
+<a href="https://www.w3schools.com/cpp/default.asp" target="_blank"><img src="https://styles.redditmedia.com/t5_2qh6x/styles/communityIcon_xgorujtjrj571.png" alt="Cpp" width="40" height="40" /></a>
 </p>
 
 ---
