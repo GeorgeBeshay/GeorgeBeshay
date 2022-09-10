@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm George Samy</h1>
+<h1 align="center">Greetings 👋, I'm George Beshay</h1>
 <!-- <h3 align="center"><i>A Passionate Computer and Systems Engineering Student From Egypt</i></h3> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=8000&center=true&vCenter=true&multiline=true&width=1000&lines=A+Passionate+Computer+Engineering+Student+From+Egypt)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&duration=8000&center=true&vCenter=true&multiline=true&width=1000&lines=A+Passionate+Computer+and+Systems+Engineering+Student+From+Egypt)](https://git.io/typing-svg)
 
 <br>
 
