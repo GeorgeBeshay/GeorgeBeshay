@@ -1,11 +1,7 @@
 <h1 align="center">Hey there 👋, I'm George Beshay</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=10000&center=true&vCenter=true&multiline=true&width=1000&lines=A+Passionate+Computer+Engineering+Student+From+Egypt" alt="Typing SVG">
-</p>
-
 ### About Me 📚
-I'm George Beshay, a Computer Engineering student at the Department of Computer and Systems Engineering, University of Alexandria, Egypt. Expected to graduate in 2025, I am passionate about building software, exploring various technologies and frameworks. Connect with me to discuss tech, collaborate on projects, or just say hi! 👨‍💻✨
+I'm George Beshay, a Software Engineer with a degree in Computer and Systems Engineering from the Department of Computer and Systems Engineering, University of Alexandria, Egypt (Class 2025). I am passionate about building software, exploring various technologies, frameworks, and real-world systems. Connect with me to discuss tech, collaborate on projects, or just say hi! 👨‍💻✨
 
 <h3 align="left">Connect with Me 📫</h3>
 
