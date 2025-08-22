@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm George Beshay</h1>
 
 ### About Me 📚
-I'm George Beshay, a Software Engineer with a degree in Computer and Systems Engineering from the Department of Computer and Systems Engineering, University of Alexandria, Egypt (Class 2025). I am passionate about building software, exploring various technologies, frameworks, and real-world systems. Connect with me to discuss tech, collaborate on projects, or just say hi! 👨‍💻✨
+I'm George Beshay, a Software Engineer with a Bachelor's degree in Computer and Systems Engineering from the University of Alexandria, Egypt (Class 2025). I am passionate about building software, exploring various technologies, frameworks, and real-world systems. Connect with me to discuss tech, collaborate on projects, or just say hi! 👨‍💻✨
 
 <h3 align="left">Connect with Me 📫</h3>
 
